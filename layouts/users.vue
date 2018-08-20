@@ -1,6 +1,7 @@
 <template>
   <div>
     <Header/>
+    <header>Users Section</header>
     <nuxt/>
   </div>
 </template>
